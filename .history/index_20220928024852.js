@@ -1,1 +1,0 @@
-const display1 = document.getele
