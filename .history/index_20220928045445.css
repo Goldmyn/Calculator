@@ -51,9 +51,9 @@
     align-items: center;
     justify-content: flex-end;
     border-radius: 15px;
-    background: #e0d1d1;
+    background: #aa6e6e;
     font-size: 24px;
-    box-shadow: inset 5px 5px 7px #afa8a8, inset -5px -5px 7px #cec7c7;
+    box-shadow: inset 5px 5px 7px #949494, inset -5px -5px 7px #e7d9d9;
   }
   
   .temp-result {

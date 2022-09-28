@@ -51,9 +51,9 @@
     align-items: center;
     justify-content: flex-end;
     border-radius: 15px;
-    background: #e0d1d1;
+    background: #e0e0e0;
     font-size: 24px;
-    box-shadow: inset 5px 5px 7px #afa8a8, inset -5px -5px 7px #cec7c7;
+    box-shadow: inset 5px 5px 7px #949494, inset -5px -5px 7px #e7d9d9;
   }
   
   .temp-result {
@@ -61,7 +61,7 @@
   }
   
   .all_button {
-    color: rgb(28, 76, 114);
+    color: rgb(0, 0, 0);
     display: grid;
     grid-template:
       repeat(4, minmax(67px, 1fr))
@@ -80,12 +80,12 @@
     font-size: 30px;
     cursor: pointer;
     border-radius: 100px;
-    background: #e6bfbf;
-    box-shadow: 5px 5px 11px #d45f5f, -5px -5px 11px #f1eaea;
+    background: #d4a7a7;
+    box-shadow: 5px 5px 11px #aaaaaa, -5px -5px 11px #ffffff;
   }
   .button:hover {
-    background-color: rgb(22, 21, 12);
-    color: rgb(141, 160, 33);
+    background-color: rgb(30, 43, 46);
+    color: white;
   }
   .btn-0 {
     grid-column: 1/3;
